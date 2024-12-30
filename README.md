@@ -62,8 +62,14 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 ### DDL
 <details>
   <summary>첫 번째 토글</summary>
-  <details>
-    <summary>두 번째 토글</summary>
-  </details>
+
+  내용 1
+
+  &nbsp;&nbsp;&nbsp;&nbsp;<details>
+  &nbsp;&nbsp;&nbsp;&nbsp;<summary>두 번째 토글</summary>
+
+  내용 2
+  &nbsp;&nbsp;&nbsp;&nbsp;</details>
+
 </details>
 
