@@ -245,57 +245,59 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
   </details>
 </details>
 
+
+
 <details>
-  <summary>매점</summary>
+  <summary>사용자</summary>
     
   <details>
-    <summary>MOVIE_ACTOR</summary>
-
+    <summary>결제내역</summary>
+<img width="757" alt="결제내역" src="https://github.com/user-attachments/assets/6445fea2-f9ae-42e5-98fa-79c5c78aaa93" />
   </details>
 
   <details>
-    <summary>MOVIE_REVIEW</summary>
-
+    <summary>과거예매내역</summary>
+<img width="806" alt="과거예매내역" src="https://github.com/user-attachments/assets/ec189a1f-ceca-4177-825a-d2aa3056783d" />
   </details>
 
   <details>
-    <summary>MOVIE_SCHEDULE</summary>
-
+    <summary>등급확인</summary>
+<img width="789" alt="등급확인" src="https://github.com/user-attachments/assets/04c3fb92-37ef-4ddb-9ea7-9593d14a7951" />
   </details>
 
   <details>
-    <summary>MOVIE_SEAT</summary>
-
+    <summary>아이디 찾기</summary>
+<img width="757" alt="아이디 찾기" src="https://github.com/user-attachments/assets/7f118fe3-f0f1-42b8-995e-7f8aab7a77a4" />
   </details>
 
   <details>
-    <summary>MOVIE_THEATERS</summary>
-
+    <summary>예매 할인 내역</summary>
+<img width="434" alt="예매 할인 내역" src="https://github.com/user-attachments/assets/b3b44e0c-4b0d-459b-874a-f034c94cc5e3" />
   </details>
 
   <details>
-    <summary>ORDER</summary>
-
+    <summary>예매정보 확인</summary>
+<img width="584" alt="예매정보 확인" src="https://github.com/user-attachments/assets/fac7749c-3d1f-40ee-92f2-03cf0bc90190" />
   </details>
 
   <details>
-    <summary>PAYMENT</summary>
-
+    <summary>쿠폰</summary>
+<img width="622" alt="쿠폰" src="https://github.com/user-attachments/assets/b6922436-3a7a-46b7-9d48-58df570b083a" />
   </details>
 
   <details>
-    <summary>USER</summary>
-
+    <summary>프로필 수정</summary>
+<img width="790" alt="프로필 수정" src="https://github.com/user-attachments/assets/6da38114-47aa-4163-a0cb-5f878018391b" />
   </details>
 
   <details>
-    <summary>USER_COUPON</summary>
-
+    <summary>회원 로그인</summary>
+<img width="632" alt="회원 로그인" src="https://github.com/user-attachments/assets/8c1b5c28-04d2-4d46-9467-6c06d458bade" />
   </details>
 
   <details>
-    <summary>USER_MOVIE_RESERV</summary>
-
+    <summary>회원가입</summary>
+<img width="663" alt="회원가입" src="https://github.com/user-attachments/assets/22bacaf3-5371-40d7-b9a3-d5df6c79000d" />
   </details>
 </details>
 
