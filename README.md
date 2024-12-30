@@ -60,9 +60,8 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 </div>
 
 ## ERD
-<https://www.erdcloud.com/d/cSNA6njwwhbjBmBGs>
-![ERD](https://github.com/beyond-sw-camp/be13-1st-DBDBDEEP/blob/main/ERD.png)
----
+[![ERD](https://github.com/beyond-sw-camp/be13-1st-DBDBDEEP/blob/main/ERD.png)](https://www.erdcloud.com/d/cSNA6njwwhbjBmBGs)
+
 
 ## 요구사항 명세서
 ![beyond_13_1st_Showtimenow - 시트1_1](https://github.com/user-attachments/assets/c0f0dee6-86bb-446a-9af1-e5e66901081a)
@@ -241,9 +240,11 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
     <summary>사용자 주문 내역 확인</summary>
 <img width="813" alt="사용자 주문 내역 확인" src="https://github.com/user-attachments/assets/b8ad47bd-dfdd-4f9b-8c3e-0b79376b8dc6" />
   </details>
+  
+<br>
+<br>
+
 </details>
-
-
 
 <details>
   <summary>사용자</summary>
@@ -297,9 +298,11 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
     <summary>회원가입</summary>
 <img width="663" alt="회원가입" src="https://github.com/user-attachments/assets/22bacaf3-5371-40d7-b9a3-d5df6c79000d" />
   </details>
+  
+<br>
+<br>
+
 </details>
-
-
 
 
 <details>
@@ -325,9 +328,10 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 <img width="618" alt="리뷰확인" src="https://github.com/user-attachments/assets/715b0c0a-73b8-4561-8e21-456138450318" />
   </details>
   
+<br>
+<br>
+  
 </details>
-
-
 
 
 <details>
@@ -397,9 +401,11 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
     <summary>해당 연령대별 시청 비율</summary>
 <img width="570" alt="해당 연령대별 시청 비율" src="https://github.com/user-attachments/assets/a107f08c-efb7-4b49-b28e-38018411b470" />
   </details>
+  
+<br>
+<br>
+
 </details>
-
-
 
 
 <details>
@@ -420,6 +426,9 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 <img width="356" alt="해당배우출연영화이력" src="https://github.com/user-attachments/assets/29b2fcb2-6a15-4651-a2e8-d355cd31098d" />
   </details>
   
+<br>
+<br>
+  
 </details>
 
 
@@ -429,6 +438,9 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
   <details>
     <summary>제작사 별 제작 영화 조회</summary>
 <img width="1135" alt="제작사 별 제작 영화 조회" src="https://github.com/user-attachments/assets/d5671e16-833b-48cb-a182-9b30a561c953" />
-
   </details>  
+
+<br>
+<br>
+
 </details>
