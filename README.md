@@ -1,13 +1,12 @@
 # ShowTimeNow - 통합 영화 예매 관리 시스템
-<div style="text-align: center;">
+<p align="center">
     <img src="https://github.com/user-attachments/assets/24881a4d-a482-4b5f-9928-9004a3a452b9" alt="DBDBDEEP 팀의 ShowTimeNow 프로젝트 로고" width="500" height="500">
-</div>
+</p>
 
 ## DBDBDEEP 팀원들의 소개
-
-| <img src="https://github.com/user-attachments/assets/18266f06-ae04-40a8-9256-37165476ce2c" alt="김도윤" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/174a9540-507f-49bf-8fa0-bd72db7b3221" alt="김민석" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/c88b01ae-a029-402b-8238-cc071067cd9b" alt="홍재민" width="150" height="150"> |
-|---|---|---|
-| 김도윤 | 김민석 | 홍재민 |
+| <img src="https://github.com/user-attachments/assets/98231e0d-e3fd-4d49-88d9-886dfa0c9f58" alt="최유진" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/6ac2b1d3-3dae-426f-9dbe-39d8da6a6d67" alt="홍재민" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/01e546d9-8fff-484f-8e2e-4e49675a3769" alt="김민석" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/690a2aa0-9019-4809-a4a3-88f9d349b24e" alt="이성훈" width="150" height="150"> | <img src="https://github.com/user-attachments/assets/5f1dec4a-33a3-43f7-ad4b-b3bb1865a4f9" alt="김도윤" width="150" height="150"> |
+|---|---|---|---|---|
+| 최유진 | 홍재민 | 김민석 | 이성훈 | 김도윤 |
 
 ## 목차 
 1. [프로젝트 개요](#프로젝트-개요) 
