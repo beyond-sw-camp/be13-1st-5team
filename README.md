@@ -61,15 +61,133 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 ## 💻SQL개발
 ### DDL
 <details>
-  <summary>첫 번째 토글</summary>
+  <summary>DDL</summary>
 
-  내용 1
+  <details>
+    <summary>ACTOR_PROFILE</summary>
+![ACTOR_PROFILE](https://github.com/user-attachments/assets/777daafe-f947-4484-bda7-1d371896d959)
+![ACTOR_PROFILE_CON](https://github.com/user-attachments/assets/783a5382-9c8f-4848-a479-14198d4ea0a7)
+    <details>
+      <summary>CINEMA</summary>
+![CINEMA](https://github.com/user-attachments/assets/589a4da5-6b17-4fb4-82de-0c7bce1aa55b)
+![CINEMA_COMPANY](https://github.com/user-attachments/assets/412a335e-0292-461b-94c5-9b719c123dcd)
 
-  &nbsp;&nbsp;&nbsp;&nbsp;<details>
-  &nbsp;&nbsp;&nbsp;&nbsp;<summary>두 번째 토글</summary>
+      내용 3
 
-  내용 2
-  &nbsp;&nbsp;&nbsp;&nbsp;</details>
+      <details>
+        <summary>네 번째 토글</summary>
+
+        내용 4
+
+        <details>
+          <summary>다섯 번째 토글</summary>
+
+          내용 5
+
+          <details>
+            <summary>여섯 번째 토글</summary>
+
+            내용 6
+
+            <details>
+              <summary>일곱 번째 토글</summary>
+
+              내용 7
+
+              <details>
+                <summary>여덟 번째 토글</summary>
+
+                내용 8
+
+                <details>
+                  <summary>아홉 번째 토글</summary>
+
+                  내용 9
+
+                  <details>
+                    <summary>열 번째 토글</summary>
+
+                    내용 10
+
+                    <details>
+                      <summary>열한 번째 토글</summary>
+
+                      내용 11
+
+                      <details>
+                        <summary>열두 번째 토글</summary>
+
+                        내용 12
+
+                        <details>
+                          <summary>열세 번째 토글</summary>
+
+                          내용 13
+
+                          <details>
+                            <summary>열네 번째 토글</summary>
+
+                            내용 14
+
+                            <details>
+                              <summary>열다섯 번째 토글</summary>
+
+                              내용 15
+
+                              <details>
+                                <summary>열여섯 번째 토글</summary>
+
+                                내용 16
+
+                                <details>
+                                  <summary>열일곱 번째 토글</summary>
+
+                                  내용 17
+
+                                  <details>
+                                    <summary>열여덟 번째 토글</summary>
+
+                                    내용 18
+
+                                    <details>
+                                      <summary>열아홉 번째 토글</summary>
+
+                                      내용 19
+
+                                    </details>
+
+                                  </details>
+
+                                </details>
+
+                              </details>
+
+                            </details>
+
+                          </details>
+
+                        </details>
+
+                      </details>
+
+                    </details>
+
+                  </details>
+
+                </details>
+
+              </details>
+
+            </details>
+
+          </details>
+
+        </details>
+
+      </details>
+
+    </details>
+
+  </details>
 
 </details>
-
