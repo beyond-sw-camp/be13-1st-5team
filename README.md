@@ -78,7 +78,7 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 ## 💻SQL개발
 ### DDL
 <details>
-  <summary>DDL</summary>  
+  <summary>CREATE TABLE</summary>  
 
   <details>
     <summary>ACTOR_PROFILE</summary>
@@ -356,6 +356,11 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
   <details>
     <summary>영화 누적 관객수</summary>
 <img width="409" alt="영화 누적 관객수" src="https://github.com/user-attachments/assets/f27baf88-5d23-4e7b-9764-993a8c801971" />
+  </details>
+
+  <details>
+    <summary>영화 예매</summary>
+<img width="1316" alt="영화 예매" src="https://github.com/user-attachments/assets/c68740c1-77e8-4bda-bbbb-3537387f4313" />
   </details>
 
   <details>
