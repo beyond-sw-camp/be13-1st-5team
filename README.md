@@ -78,9 +78,7 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 ## 💻SQL개발
 ### DDL
 <details>
-  <summary>DDL</summary>
-
-  
+  <summary>DDL</summary>  
 
   <details>
     <summary>ACTOR_PROFILE</summary>
@@ -329,56 +327,103 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
   
 </details>
 
+
+
+
 <details>
-  <summary>매점</summary>
+  <summary>영화</summary>
     
   <details>
-    <summary>MOVIE_ACTOR</summary>
-
+    <summary>상영 일정 정보</summary>
+<img width="1146" alt="상영 일정 정보" src="https://github.com/user-attachments/assets/a7298418-741c-415e-8de2-265bc09a8b64" />
   </details>
 
   <details>
-    <summary>MOVIE_REVIEW</summary>
-
+    <summary>상영관 정보</summary>
+<img width="1149" alt="상영관 정보" src="https://github.com/user-attachments/assets/914dff8c-2d68-4da6-8a12-e54e5e984ed5" />
   </details>
 
   <details>
-    <summary>MOVIE_SCHEDULE</summary>
-
+    <summary>영화 개봉예정작</summary>
+<img width="740" alt="영화 개봉예정작" src="https://github.com/user-attachments/assets/1f674cc7-cea4-4603-82af-dfb64df08228" />
   </details>
 
   <details>
-    <summary>MOVIE_SEAT</summary>
-
+    <summary>영화 검색</summary>
+<img width="746" alt="영화 검색" src="https://github.com/user-attachments/assets/f61adbef-86fb-4bfd-b372-498499f0323e" />
   </details>
 
   <details>
-    <summary>MOVIE_THEATERS</summary>
-
+    <summary>영화 누적 관객수</summary>
+<img width="409" alt="영화 누적 관객수" src="https://github.com/user-attachments/assets/f27baf88-5d23-4e7b-9764-993a8c801971" />
   </details>
 
   <details>
-    <summary>ORDER</summary>
-
+    <summary>영화 예매율</summary>
+<img width="374" alt="영화 예매율" src="https://github.com/user-attachments/assets/9da436ba-f465-46ed-9b67-c7c47f56b19b" />
   </details>
 
   <details>
-    <summary>PAYMENT</summary>
-
+    <summary>영화 줄거리</summary>
+<img width="711" alt="영화 줄거리" src="https://github.com/user-attachments/assets/6b054076-9205-4a0e-a826-0d8a079d1677" />
   </details>
 
   <details>
-    <summary>USER</summary>
-
+    <summary>영화관정보_업체별</summary>
+<img width="647" alt="영화관정보_업체별" src="https://github.com/user-attachments/assets/6deaccd1-4db8-40f1-b91f-9f5f27d55faa" />
   </details>
 
   <details>
-    <summary>USER_COUPON</summary>
-
+    <summary>영화관정보_지역별</summary>
+<img width="646" alt="영화관정보_지역별" src="https://github.com/user-attachments/assets/3c572e3f-f173-4d7a-87d8-95fc33155f2b" />
   </details>
 
   <details>
-    <summary>USER_MOVIE_RESERV</summary>
-
+    <summary>영화관정보_지점별</summary>
+<img width="675" alt="영화관정보_지점별" src="https://github.com/user-attachments/assets/bfefb174-b22a-4d91-b175-6355ad84f900" />
   </details>
+  
+  <details>
+    <summary>이달의영화선정</summary>
+<img width="509" alt="이달의영화선정" src="https://github.com/user-attachments/assets/28f1a3cd-6872-411b-9bd5-f2937210fc37" />
+  </details>
+  
+<details>
+    <summary>해당 연령대별 시청 비율</summary>
+<img width="570" alt="해당 연령대별 시청 비율" src="https://github.com/user-attachments/assets/a107f08c-efb7-4b49-b28e-38018411b470" />
+  </details>
+</details>
+
+
+
+
+<details>
+  <summary>배우</summary>
+    
+  <details>
+    <summary>배우프로필</summary>
+<img width="379" alt="배우프로필" src="https://github.com/user-attachments/assets/07153c6d-1865-42dc-8e4e-2a6de57a8068" />
+  </details>
+
+  <details>
+    <summary>영화출연배우</summary>
+<img width="336" alt="영화출연배우" src="https://github.com/user-attachments/assets/aba18f05-5e70-422d-b66b-71c53f554894" />
+  </details>
+
+  <details>
+    <summary>해당배우출연영화이력</summary>
+<img width="356" alt="해당배우출연영화이력" src="https://github.com/user-attachments/assets/29b2fcb2-6a15-4651-a2e8-d355cd31098d" />
+  </details>
+  
+</details>
+
+
+<details>
+  <summary>제작사</summary>
+    
+  <details>
+    <summary>제작사 별 제작 영화 조회</summary>
+<img width="1135" alt="제작사 별 제작 영화 조회" src="https://github.com/user-attachments/assets/d5671e16-833b-48cb-a182-9b30a561c953" />
+
+  </details>  
 </details>
