@@ -61,9 +61,9 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 ## 💻SQL개발
 ### DDL
 <details>
-  <summary>DDL</summary>
+  <summary>첫 번째 토글</summary>
   <details>
-    <summary>USER</summary>
+    <summary>두 번째 토글</summary>
   </details>
 </details>
 
