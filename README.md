@@ -62,6 +62,19 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 ### DDL
 <details>
   <summary>DDL</summary>
+
+  내용 1
+
+  <details>
+    <summary>USER</summary>
+
+    내용 2
+  </details>
+
+</details>
+
+<details>
+  <summary>DDL</summary>
   <div markdown="1">
     <ul>
       <li>1</li>
