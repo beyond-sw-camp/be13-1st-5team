@@ -301,58 +301,32 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
   </details>
 </details>
 
+
+
+
 <details>
-  <summary>매점</summary>
+  <summary>리뷰</summary>
     
   <details>
-    <summary>MOVIE_ACTOR</summary>
-
+    <summary>리뷰평점삭제</summary>
+<img width="432" alt="리뷰평점삭제" src="https://github.com/user-attachments/assets/ddda1fb4-9a30-4e7d-b7c6-2999515b1b3e" />
   </details>
 
   <details>
-    <summary>MOVIE_REVIEW</summary>
-
+    <summary>리뷰평점수정</summary>
+<img width="639" alt="리뷰평점수정" src="https://github.com/user-attachments/assets/b664082d-9d68-4a6e-aee0-6047ed6a19c5" />
   </details>
 
   <details>
-    <summary>MOVIE_SCHEDULE</summary>
-
+    <summary>리뷰평점작성</summary>
+<img width="651" alt="리뷰평점작성" src="https://github.com/user-attachments/assets/ef5d58b0-cb1a-4ba5-965c-af082be49264" />
   </details>
 
   <details>
-    <summary>MOVIE_SEAT</summary>
-
+    <summary>리뷰확인</summary>
+<img width="618" alt="리뷰확인" src="https://github.com/user-attachments/assets/715b0c0a-73b8-4561-8e21-456138450318" />
   </details>
-
-  <details>
-    <summary>MOVIE_THEATERS</summary>
-
-  </details>
-
-  <details>
-    <summary>ORDER</summary>
-
-  </details>
-
-  <details>
-    <summary>PAYMENT</summary>
-
-  </details>
-
-  <details>
-    <summary>USER</summary>
-
-  </details>
-
-  <details>
-    <summary>USER_COUPON</summary>
-
-  </details>
-
-  <details>
-    <summary>USER_MOVIE_RESERV</summary>
-
-  </details>
+  
 </details>
 
 <details>
