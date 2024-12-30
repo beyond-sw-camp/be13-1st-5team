@@ -62,131 +62,112 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 <details>
   <summary>DDL</summary>
 
+  
+
   <details>
     <summary>ACTOR_PROFILE</summary>
-![ACTOR_PROFILE](https://github.com/user-attachments/assets/777daafe-f947-4484-bda7-1d371896d959)
-![ACTOR_PROFILE_CON](https://github.com/user-attachments/assets/783a5382-9c8f-4848-a479-14198d4ea0a7)
-    <details>
-      <summary>CINEMA</summary>
-![CINEMA](https://github.com/user-attachments/assets/589a4da5-6b17-4fb4-82de-0c7bce1aa55b)
-![CINEMA_COMPANY](https://github.com/user-attachments/assets/412a335e-0292-461b-94c5-9b719c123dcd)
+    <img src="https://github.com/user-attachments/assets/777daafe-f947-4484-bda7-1d371896d959" alt="ACTOR_PROFILE">
+    <img src="https://github.com/user-attachments/assets/783a5382-9c8f-4848-a479-14198d4ea0a7" alt="ACTOR_PROFILE_CON">
+  </details>
 
-      내용 3
+  <details>
+    <summary>CINEMA</summary>
+    <img src="https://github.com/user-attachments/assets/589a4da5-6b17-4fb4-82de-0c7bce1aa55b" alt="CINEMA">
+    <img src="https://github.com/user-attachments/assets/97105901-24c0-4eba-892f-8b2d8eff6ba3" alt="CINEMA_CON">
+  </details>
 
-      <details>
-        <summary>네 번째 토글</summary>
+  <details>
+    <summary>CINEMA_COMPANY</summary>
+    <img src="https://github.com/user-attachments/assets/fcac5bc7-ef54-4681-8957-69ac1a8d780b" alt="CINEMA_COMPANY">
+    <img src="https://github.com/user-attachments/assets/5a7e3dd3-1527-4631-8107-aa891859ae93" alt="CINEMA_COMPANY_CON">
+  </details>
 
-        내용 4
+  <details>
+    <summary>COUPON</summary>
+    <img src="https://github.com/user-attachments/assets/f3ecd9cb-1981-4f1e-a066-139921eec295" alt="COUPON">
+    <img src="https://github.com/user-attachments/assets/400382a1-e74d-4e97-85bb-b1654e7a2485" alt="COUPON_CON">
+  </details>
 
-        <details>
-          <summary>다섯 번째 토글</summary>
+  <details>
+    <summary>GENRE</summary>
+    <img src="https://github.com/user-attachments/assets/e5f5f434-f07c-4af6-9e12-deec55a1ca2c" alt="GENRE">
+  </details>
 
-          내용 5
+  <details>
+    <summary>GRADE</summary>
+    <img src="https://github.com/user-attachments/assets/948ab911-1aa4-4db6-bea5-03408e782f78" alt="GRADE">
+  </details>
 
-          <details>
-            <summary>여섯 번째 토글</summary>
+  <details>
+    <summary>ITEM</summary>
+    <img src="https://github.com/user-attachments/assets/a2a780f9-cfd6-4d95-a9ef-36498271de5e" alt="ITEM">
+    <img src="https://github.com/user-attachments/assets/d28de0c7-d123-4136-9eec-af6cb67f7ab8" alt="ITEM_CON">
+  </details>
 
-            내용 6
+  <details>
+    <summary>MOVIE</summary>
+    <img src="https://github.com/user-attachments/assets/c54c6c9f-cfaa-4b40-b0c2-92ba57686d2a" alt="MOVIE">
+    <img src="https://github.com/user-attachments/assets/9ac1c7b5-09e9-4bbf-a58e-e5c17395f91f" alt="MOVIE_CON">
+  </details>
 
-            <details>
-              <summary>일곱 번째 토글</summary>
+  <details>
+    <summary>MOVIE_ACTOR</summary>
+    <img src="https://github.com/user-attachments/assets/62485548-427c-4c76-bd20-efee86df4a92" alt="MOVIE_ACTOR">
+    <img src="https://github.com/user-attachments/assets/b7e4ab10-5932-42c9-a7f8-fb5ec7043f9a" alt="MOVIE_ACTOR_CON">
+  </details>
 
-              내용 7
+  <details>
+    <summary>MOVIE_REVIEW</summary>
+    <img src="https://github.com/user-attachments/assets/5deb4b12-5785-4b58-af44-da3a27bff675" alt="MOVIE_REVIEW">
+    <img src="https://github.com/user-attachments/assets/00a08b71-231d-44db-879e-2283608ba59a" alt="MOVIE_REVIEW_CON">
+  </details>
 
-              <details>
-                <summary>여덟 번째 토글</summary>
+  <details>
+    <summary>MOVIE_SCHEDULE</summary>
+    <img src="https://github.com/user-attachments/assets/ae734b46-1220-4d6e-a115-5082d2c38ed7" alt="MOVIE_SCHEDULE">
+    <img src="https://github.com/user-attachments/assets/7d054f8a-b302-4715-9f51-a4263239365b" alt="MOVIE_SCHEDULE_CON">
+  </details>
 
-                내용 8
+  <details>
+    <summary>MOVIE_SEAT</summary>
+    <img src="https://github.com/user-attachments/assets/9a055f93-d64d-4750-ab2f-b8b4acc0dc76" alt="MOVIE_SEAT">
+    <img src="https://github.com/user-attachments/assets/f05becc8-ef68-4b52-a6ed-45fa255ee067" alt="MOVIE_SEAT_CON">
+  </details>
 
-                <details>
-                  <summary>아홉 번째 토글</summary>
+  <details>
+    <summary>MOVIE_THEATERS</summary>
+    <img src="https://github.com/user-attachments/assets/4e41780e-3d0e-4858-bf30-1bc5e63f4cdf" alt="MOVIE_THEATERS">
+    <img src="https://github.com/user-attachments/assets/61b80bec-3166-43cb-8f7e-8d1a60c8b872" alt="MOVIE_THEATERS_CON">
+  </details>
 
-                  내용 9
+  <details>
+    <summary>ORDER</summary>
+    <img src="https://github.com/user-attachments/assets/1d1c469d-df18-4931-aac5-46c039a2cb92" alt="ORDER">
+    <img src="https://github.com/user-attachments/assets/0af1823b-6edc-4c58-83f5-dca708a5de4f" alt="ORDER_CON">
+  </details>
 
-                  <details>
-                    <summary>열 번째 토글</summary>
+  <details>
+    <summary>PAYMENT</summary>
+    <img src="https://github.com/user-attachments/assets/fd0b49d8-0dfc-4c7f-ae9f-8f6424320d2d" alt="PAYMENT">
+    <img src="https://github.com/user-attachments/assets/670a9d27-27d8-46ec-87b5-a01ee6f287b2" alt="PAYMENT_CON">
+  </details>
 
-                    내용 10
+  <details>
+    <summary>USER</summary>
+    <img src="https://github.com/user-attachments/assets/bcbe62ac-7de4-4a41-937f-e8c6c12f812d" alt="USER">
+    <img src="https://github.com/user-attachments/assets/8b0abaa5-efdf-4a85-9abd-64327eab70c8" alt="USER_CON">
+  </details>
 
-                    <details>
-                      <summary>열한 번째 토글</summary>
+  <details>
+    <summary>USER_COUPON</summary>
+    <img src="https://github.com/user-attachments/assets/6a43adb9-8d98-4657-bdce-ef5d163d89f4" alt="USER_COUPON">
+    <img src="https://github.com/user-attachments/assets/4b299bf8-ab2f-4457-ad4c-781d8fdec6ed" alt="USER_COUPON_CON">
+  </details>
 
-                      내용 11
-
-                      <details>
-                        <summary>열두 번째 토글</summary>
-
-                        내용 12
-
-                        <details>
-                          <summary>열세 번째 토글</summary>
-
-                          내용 13
-
-                          <details>
-                            <summary>열네 번째 토글</summary>
-
-                            내용 14
-
-                            <details>
-                              <summary>열다섯 번째 토글</summary>
-
-                              내용 15
-
-                              <details>
-                                <summary>열여섯 번째 토글</summary>
-
-                                내용 16
-
-                                <details>
-                                  <summary>열일곱 번째 토글</summary>
-
-                                  내용 17
-
-                                  <details>
-                                    <summary>열여덟 번째 토글</summary>
-
-                                    내용 18
-
-                                    <details>
-                                      <summary>열아홉 번째 토글</summary>
-
-                                      내용 19
-
-                                    </details>
-
-                                  </details>
-
-                                </details>
-
-                              </details>
-
-                            </details>
-
-                          </details>
-
-                        </details>
-
-                      </details>
-
-                    </details>
-
-                  </details>
-
-                </details>
-
-              </details>
-
-            </details>
-
-          </details>
-
-        </details>
-
-      </details>
-
-    </details>
-
+  <details>
+    <summary>USER_MOVIE_RESERV</summary>
+    <img src="https://github.com/user-attachments/assets/1709a74b-24a8-47d5-9a5c-99a1ed2164dc" alt="USER_MOVIE_RESERV">
+    <img src="https://github.com/user-attachments/assets/37546031-8d05-4ea6-9aaf-f1e3ffabc64c" alt="USER_MOVIE_RESERV_CON">
   </details>
 
 </details>
