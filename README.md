@@ -57,6 +57,18 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 <https://www.erdcloud.com/d/cSNA6njwwhbjBmBGs>
 ![ERD](https://github.com/beyond-sw-camp/be13-1st-DBDBDEEP/blob/main/ERD.png)
 ---
+
+## 요구사항 명세서
+![beyond_13_1st_Showtimenow - 시트1_1](https://github.com/user-attachments/assets/c0f0dee6-86bb-446a-9af1-e5e66901081a)
+
+## 테이블 명세서
+![테이블_명세서_1](https://github.com/user-attachments/assets/2522f020-951e-4d61-8413-400037755b2f)
+![테이블_명세서_2](https://github.com/user-attachments/assets/fe085171-b9fb-45a9-b1aa-533a631a3563)
+![테이블_명세서_3](https://github.com/user-attachments/assets/1cafd0e6-2e9e-454d-953c-afc0b780776c)
+
+## WBS (Work Breakdown Structure)
+![image](https://github.com/user-attachments/assets/1f36e5da-71a9-427d-b903-55bdf80f463f)
+
 ## 💻SQL개발
 ### DDL
 <details>
