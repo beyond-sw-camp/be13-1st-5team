@@ -183,3 +183,220 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
   </details>
 
 </details>
+
+### DML
+<details>
+  <summary>매점</summary>
+    
+  <details>
+    <summary>결제 정보 입력</summary>
+<img width="717" alt="결제 정보 입력" src="https://github.com/user-attachments/assets/3993f5c5-e274-464c-80a3-526df56d3109" />
+  </details>
+
+  <details>
+    <summary>결제 정보 확인</summary>
+<img width="1422" alt="결제 정보 확인" src="https://github.com/user-attachments/assets/45aa8cb5-e6dd-49a0-afab-58e4405ab7ae" />
+  </details>
+
+  <details>
+    <summary>매점 대기번호 확인</summary>
+<img width="862" alt="매점 대기번호 확인" src="https://github.com/user-attachments/assets/66ef866b-3c67-4b23-9908-672145f3ab74" />
+  </details>
+
+  <details>
+    <summary>매점 메뉴 가격 확인</summary>
+<img width="687" alt="매점 메뉴 가격 확인" src="https://github.com/user-attachments/assets/b20ec4e1-6867-43a9-be8c-be90ae2defd5" />
+  </details>
+
+  <details>
+    <summary>매점 신메뉴 등록</summary>
+<img width="970" alt="매점 신메뉴 등록" src="https://github.com/user-attachments/assets/01d020ac-eea9-4551-9a36-55b94ed30687" />
+  </details>
+
+  <details>
+    <summary>매점 재고 추가</summary>
+<img width="676" alt="매점 재고 추가" src="https://github.com/user-attachments/assets/b1b79bf4-3c9f-4456-a936-af04ae07fbac" />
+  </details>
+
+  <details>
+    <summary>매점 재고 확인</summary>
+<img width="702" alt="매점 재고 확인" src="https://github.com/user-attachments/assets/bcdcb1f6-3f11-4334-93ea-ef8f96ba70fd" />
+  </details>
+
+  <details>
+    <summary>매점 주문 확인</summary>
+<img width="1383" alt="매점 주문" src="https://github.com/user-attachments/assets/79332e81-9809-485d-b193-d9ec20ada437" />
+  </details>
+
+  <details>
+    <summary>총 주문 금액 조회</summary>
+<img width="813" alt="총 주문 금액 조회" src="https://github.com/user-attachments/assets/28501e0e-fdfc-4161-bdf1-16742e5ba191" />
+  </details>
+
+  <details>
+    <summary>사용자 주문 내역 확인</summary>
+<img width="813" alt="사용자 주문 내역 확인" src="https://github.com/user-attachments/assets/b8ad47bd-dfdd-4f9b-8c3e-0b79376b8dc6" />
+  </details>
+</details>
+
+<details>
+  <summary>매점</summary>
+    
+  <details>
+    <summary>MOVIE_ACTOR</summary>
+
+  </details>
+
+  <details>
+    <summary>MOVIE_REVIEW</summary>
+
+  </details>
+
+  <details>
+    <summary>MOVIE_SCHEDULE</summary>
+
+  </details>
+
+  <details>
+    <summary>MOVIE_SEAT</summary>
+
+  </details>
+
+  <details>
+    <summary>MOVIE_THEATERS</summary>
+
+  </details>
+
+  <details>
+    <summary>ORDER</summary>
+
+  </details>
+
+  <details>
+    <summary>PAYMENT</summary>
+
+  </details>
+
+  <details>
+    <summary>USER</summary>
+
+  </details>
+
+  <details>
+    <summary>USER_COUPON</summary>
+
+  </details>
+
+  <details>
+    <summary>USER_MOVIE_RESERV</summary>
+
+  </details>
+</details>
+
+<details>
+  <summary>매점</summary>
+    
+  <details>
+    <summary>MOVIE_ACTOR</summary>
+
+  </details>
+
+  <details>
+    <summary>MOVIE_REVIEW</summary>
+
+  </details>
+
+  <details>
+    <summary>MOVIE_SCHEDULE</summary>
+
+  </details>
+
+  <details>
+    <summary>MOVIE_SEAT</summary>
+
+  </details>
+
+  <details>
+    <summary>MOVIE_THEATERS</summary>
+
+  </details>
+
+  <details>
+    <summary>ORDER</summary>
+
+  </details>
+
+  <details>
+    <summary>PAYMENT</summary>
+
+  </details>
+
+  <details>
+    <summary>USER</summary>
+
+  </details>
+
+  <details>
+    <summary>USER_COUPON</summary>
+
+  </details>
+
+  <details>
+    <summary>USER_MOVIE_RESERV</summary>
+
+  </details>
+</details>
+
+<details>
+  <summary>매점</summary>
+    
+  <details>
+    <summary>MOVIE_ACTOR</summary>
+
+  </details>
+
+  <details>
+    <summary>MOVIE_REVIEW</summary>
+
+  </details>
+
+  <details>
+    <summary>MOVIE_SCHEDULE</summary>
+
+  </details>
+
+  <details>
+    <summary>MOVIE_SEAT</summary>
+
+  </details>
+
+  <details>
+    <summary>MOVIE_THEATERS</summary>
+
+  </details>
+
+  <details>
+    <summary>ORDER</summary>
+
+  </details>
+
+  <details>
+    <summary>PAYMENT</summary>
+
+  </details>
+
+  <details>
+    <summary>USER</summary>
+
+  </details>
+
+  <details>
+    <summary>USER_COUPON</summary>
+
+  </details>
+
+  <details>
+    <summary>USER_MOVIE_RESERV</summary>
+
+  </details>
+</details>
