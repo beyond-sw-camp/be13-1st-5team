@@ -81,7 +81,7 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 [![beyond_13_1st_Showtimenow - 시트1_1](https://github.com/user-attachments/assets/c0f0dee6-86bb-446a-9af1-e5e66901081a)](https://docs.google.com/spreadsheets/d/1qfBnVZno7jU1eyFCZ5f8OzzUegDrYGiJ7vPFpjrSXXc/edit?usp=sharing)
 
 ## 테이블 명세서
-https://docs.google.com/spreadsheets/d/1NWkHi9SEZuarzQb6Pw5Ctnte2T-OJF-n/edit?usp=sharing&ouid=117366438238697979908&rtpof=true&sd=true
+* [테이블 명세서](https://docs.google.com/spreadsheets/d/1NWkHi9SEZuarzQb6Pw5Ctnte2T-OJF-n/edit?usp=sharing&ouid=117366438238697979908&rtpof=true&sd=true)
 
 ## WBS (Work Breakdown Structure)
 ![image](https://github.com/user-attachments/assets/1f36e5da-71a9-427d-b903-55bdf80f463f)
