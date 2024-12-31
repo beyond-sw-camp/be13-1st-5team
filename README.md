@@ -283,6 +283,11 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
   </details>
 
   <details>
+    <summary>비밀번호 찾기</summary>
+    <img width="694" alt="비밀번호 찾기" src="https://github.com/user-attachments/assets/186f4a90-129d-4d4e-9c0c-fdfa7c88c989" />
+  </details>
+  
+  <details>
     <summary>예매 할인 내역</summary>
 <img width="434" alt="예매 할인 내역" src="https://github.com/user-attachments/assets/b3b44e0c-4b0d-459b-874a-f034c94cc5e3" />
   </details>
