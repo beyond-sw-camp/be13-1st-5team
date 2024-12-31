@@ -71,6 +71,7 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 <div style="display: flex; justify-content: space-around;">
     <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white" alt="mariaDB">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="amazonwebservices">
 </div>
 
 ## ERD
