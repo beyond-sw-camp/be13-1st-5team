@@ -226,7 +226,7 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 
   <details>
     <summary>매점 신메뉴 등록</summary>
-<img width="970" alt="매점 신메뉴 등록" src="https://github.com/user-attachments/assets/01d020ac-eea9-4551-9a36-55b94ed30687" />
+    <img src="https://github.com/user-attachments/assets/f25fb470-6577-46d3-a35b-92bbdc2aede6" alt="매점 신메뉴 등록">  
   </details>
 
   <details>
