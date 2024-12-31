@@ -450,6 +450,11 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
     <summary>해당배우출연영화이력</summary>
 <img width="356" alt="해당배우출연영화이력" src="https://github.com/user-attachments/assets/29b2fcb2-6a15-4651-a2e8-d355cd31098d" />
   </details>
+
+  <details>
+    <summary>배우 추가</summary>
+    <img src="https://github.com/user-attachments/assets/ae466864-0414-4d6d-afdb-3321c4fc3b61" alt="배우 추가">
+</details>  
   
 <br>
 <br>
