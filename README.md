@@ -243,7 +243,7 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
   </details>
 
   <details>
-    <summary>매점 주문 확인</summary>
+    <summary>매점 주문</summary>
 <img width="1383" alt="매점 주문" src="https://github.com/user-attachments/assets/79332e81-9809-485d-b193-d9ec20ada437" />
   </details>
 
