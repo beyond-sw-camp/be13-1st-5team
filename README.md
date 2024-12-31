@@ -77,7 +77,7 @@ ShowTimeNow는 사용자가 원하는 영화를 보다 효율적으로 찾고 �
 </div>
 
 ## ERD
-[![ERD](https://github.com/beyond-sw-camp/be13-1st-DBDBDEEP/blob/main/ERD.png)](https://www.erdcloud.com/d/cSNA6njwwhbjBmBGs)
+[![ERD](https://github.com/user-attachments/assets/c290956e-5dd7-4755-b8a6-90625725c1e3)](https://www.erdcloud.com/d/cSNA6njwwhbjBmBGs)
 
 
 ## 요구사항 명세서
